@@ -142,25 +142,9 @@
 
 ## 🛸 OMNITRIX ARSENAL — FULL TECH STACK
 
-<div align="center">
-
-**⬡ PRIMARY ALIENS ⬡**
-
-![Python](https://img.shields.io/badge/Python-🔥_HEATBLAST-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0a0a0a)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-🧠_GREYMATTER-00ff41?style=for-the-badge&logo=tensorflow&logoColor=00ff41&labelColor=0a0a0a)
-![PyTorch](https://img.shields.io/badge/PyTorch-⚡_XLR8-00ff41?style=for-the-badge&logo=pytorch&logoColor=00ff41&labelColor=0a0a0a)
-![OpenCV](https://img.shields.io/badge/OpenCV-👁️_FOURARMS-00ff41?style=for-the-badge&logo=opencv&logoColor=00ff41&labelColor=0a0a0a)
-
-**⬡ SUPPORT ALIENS ⬡**
-
-![Linux](https://img.shields.io/badge/Linux-🛡️_DIAMONDHEAD-2ecc40?style=for-the-badge&logo=linux&logoColor=00ff41&labelColor=0a0a0a)
-![Kali Linux](https://img.shields.io/badge/Kali-👻_GHOSTFREAK-2ecc40?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=0a0a0a)
-![Jupyter](https://img.shields.io/badge/Jupyter-🌊_RIPJAWS-2ecc40?style=for-the-badge&logo=jupyter&logoColor=00ff41&labelColor=0a0a0a)
-![Git](https://img.shields.io/badge/Git-🌐_UPGRADE-2ecc40?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0a0a0a)
-![VS Code](https://img.shields.io/badge/VSCode-⚡_CANNONBOLT-2ecc40?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41&labelColor=0a0a0a)
-![Bash](https://img.shields.io/badge/Bash-🦎_WILDMUTT-2ecc40?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=0a0a0a)
-
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,git,github,vscode,jupyter,bash&perline=5&theme=dark" alt="Tech stack icons" /></a>
+</p>
 
 ---
 
@@ -184,13 +168,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush2425&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=12&title_color=00ff41&icon_color=2ecc40&text_color=00cc33&bg_color=0d0d0d&count_private=true&custom_title=⬡ OMNITRIX POWER STATS" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush2425&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00ff41&icon_color=2ecc40&text_color=00cc33&bg_color=0d0d0d&count_private=true&custom_title=⬡ OMNITRIX POWER STATS" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush2425&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=2ecc40&currStreakLabel=00ff41&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush2425&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00ff41&fire=2ecc40&currStreakLabel=00ff41&border_radius=12" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush2425&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&border_radius=12&custom_title=⬡ ALIEN DNA SAMPLES" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush2425&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&border_radius=12&custom_title=⬡ ALIEN DNA SAMPLES" />
 
 </div>
 
@@ -213,6 +197,59 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush2425&bg_color=0d0d0d&color=00ff41&line=2ecc40&point=00ff41&area=true&area_color=1a6b1a&hide_border=true&custom_title=⬡ OMNITRIX ACTIVATION TIMELINE)](https://github.com/Piyush2425)
 
 </div>
+
+---
+
+## 🐍 SNAKE CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.svg?username=Piyush2425" alt="Snake Contribution Graph" />
+</p>
+
+---
+
+## 🧠 CURRENTLY LEARNING
+
+<p align="center">
+  ![Progress](https://progress-bar.dev/70/?title=LLMs)
+  ![Progress](https://progress-bar.dev/60/?title=RAG)
+  ![Progress](https://progress-bar.dev/85/?title=Computer+Vision)
+  ![Progress](https://progress-bar.dev/65/?title=Pentesting)
+</p>
+
+---
+
+## 🗣️ DAILY QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
+</p>
+
+---
+
+## ⏱️ WAKATIME ACTIVITY (COMING SOON)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush2425&theme=tokyonight" alt="WakaTime Stats" />
+</p>
+
+---
+
+## 🎧 FUN ACTIVITY
+
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://novatorem-piyush.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
+## 📍 VISITOR MAP
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Piyush2425/count.svg" alt="Visitor Count" />
+</p>
 
 ---
 
@@ -257,4 +294,4 @@ class OmnitrixBearer:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:1a6b1a,100:000000&height=140&section=footer&text=IT'S+HERO+TIME!+🟢&fontSize=32&fontColor=00ff41&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=6,11,20&height=140&section=footer&text=IT'S+HERO+TIME!+🟢&fontSize=32&fontColor=00ff41&fontAlignY=65" />
