@@ -198,26 +198,7 @@
 
 ---
 
-## 🐍 SNAKE CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/assets/snake.svg?username=Piyush2425" alt="Snake Contribution Graph" />
-</p>
-
----
-
-## 🧠 CURRENTLY LEARNING
-
-<p align="center">
-  <img src="https://progress-bar.dev/70/?title=LLMs" alt="LLMs progress" />
-  <img src="https://progress-bar.dev/60/?title=RAG" alt="RAG progress" />
-  <img src="https://progress-bar.dev/85/?title=Computer+Vision" alt="Computer Vision progress" />
-  <img src="https://progress-bar.dev/65/?title=Pentesting" alt="Pentesting progress" />
-</p>
-
----
-
-## 🗣️ DAILY QUOTE
+## ️ DAILY QUOTE
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
@@ -225,25 +206,8 @@
 
 ---
 
-## ⏱️ WAKATIME ACTIVITY (COMING SOON)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Piyush2425&theme=tokyonight" alt="WakaTime Stats" />
-</p>
-
----
-
-## 🎧 FUN ACTIVITY
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem-piyush.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-## 📍 VISITOR MAP
+## 📍 VISITOR MAP — VISITOR COUNT
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Piyush2425/count.svg" alt="Visitor Count" />
