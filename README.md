@@ -192,7 +192,7 @@
 
 <div align="center">
   <a href="https://github.com/Piyush2425">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush2425&bg_color=0d0d0d&color=00ff41&line=2ecc40&point=00ff41&area=true&area_color=1a6b1a&hide_border=true&custom_title=⬡ OMNITRIX ACTIVATION TIMELINE" alt="Activity Graph" />
+    <img src="https://ghchart.rshah.org/Piyush2425" alt="Activity Graph" />
   </a>
 </div>
 
@@ -210,7 +210,7 @@
 ## 📍 VISITOR MAP — VISITOR COUNT
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Piyush2425/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Piyush2425.Piyush2425" alt="Visitor Count" />
 </p>
 
 ---

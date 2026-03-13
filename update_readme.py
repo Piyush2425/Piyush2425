@@ -24,7 +24,7 @@ def generate_mission_log(repos):
     repos = repos[:10]
 
     lines = []
-    lines.append('<div align="center">\n\n| ⬡ CODENAME | 👾 ALIEN DEPLOYED | 🎯 MISSION BRIEF | STATUS |\n|:---:|:---:|:---|:---:|')
+    lines.append('<div align="center">\n\n| ⬡ CODENAME | 👾 ALIEN DEPLOYED | 🎯 M    <img src="https://visitor-badge.glitch.me/badge?page_id=Piyush2425.Piyush2425" alt="visitor badge" />    <img src="https://visitor-badge.glitch.me/badge?page_id=Piyush2425.Piyush2425" alt="visitor badge" />ISSION BRIEF | STATUS |\n|:---:|:---:|:---|:---:|')
 
     alien_emojis = ['🔥', '🧠', '👁️', '⚡', '👻', '🌊', '🛡️', '🌐', '💎', '🚀']
 
