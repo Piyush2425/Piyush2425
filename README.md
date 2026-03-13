@@ -154,11 +154,9 @@
 
 | ⬡ CODENAME | 👾 ALIEN DEPLOYED | 🎯 MISSION BRIEF | STATUS |
 |:---:|:---:|:---|:---:|
-| [🥋 **MMA-AI**](https://github.com/Piyush2425/MMA-AI) | **FOUR ARMS** 👁️ | AI-powered Martial Arts Motion Analyzer — detect & analyze fighter moves from video footage | 🟢 LIVE |
-| [🦆 **BlueDucky Pentest**](https://github.com/Piyush2425/BlueDucky_Pentesting) | **GHOSTFREAK** 👻 | Bluetooth HID injection on Kali Linux — automate payloads, open apps, ghost through defenses | 🟢 LIVE |
-| [📄 **MMA Paper**](https://github.com/Piyush2425/mma-paper-) | **GREY MATTER** 🧠 | Research notebook — deep analysis of AI applied to combat sports | 🔵 RESEARCH |
-| [👁️ **Face Detection**](https://github.com/Piyush2425/face_detection) | **UPGRADE** 🌐 | Real-time face detection system using CV pipelines | 🟢 LIVE |
-| [🤖 **Bot**](https://github.com/Piyush2425/Bot) | **XLR8** ⚡ | Automation bot — fast, quiet, efficient | 🟡 WIP |
+| [MMA_AI](https://github.com/Piyush2425/MMA_AI) | **🔥** | No description available | 🟢 LIVE |
+| [BlueDucky_Pentesting](https://github.com/Piyush2425/BlueDucky_Pentesting) | **🧠** | Step-by-step guide to installing and using BlueDucky on Kali Linux for Bluetooth HID injection. Includes setup, troubleshooting, and example payloads to automate keystrokes like opening apps, typing messages, and navigation. For educational use only. | 🟢 LIVE |
+| [MMA-AI](https://github.com/Piyush2425/MMA-AI) | **👁️** | MMA Assistant – AI-Powered Martial Arts Motion Analyzer MMA Assistant is an AI-based system designed to analyze and monitor martial arts movements from video footage. It assists athletes and trainers by identifying techniques (e.g., punches, kicks, grappling), counting actions, and providing insights to improve performance and form. | 🟢 LIVE |
 
 </div>
 
