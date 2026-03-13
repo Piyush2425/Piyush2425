@@ -191,9 +191,9 @@
 ## 🌌 BATTLE HISTORY — OMNITRIX ACTIVATION LOG
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Piyush2425&bg_color=0d0d0d&color=00ff41&line=2ecc40&point=00ff41&area=true&area_color=1a6b1a&hide_border=true&custom_title=⬡ OMNITRIX ACTIVATION TIMELINE)](https://github.com/Piyush2425)
-
+  <a href="https://github.com/Piyush2425">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush2425&bg_color=0d0d0d&color=00ff41&line=2ecc40&point=00ff41&area=true&area_color=1a6b1a&hide_border=true&custom_title=⬡ OMNITRIX ACTIVATION TIMELINE" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -209,10 +209,10 @@
 ## 🧠 CURRENTLY LEARNING
 
 <p align="center">
-  ![Progress](https://progress-bar.dev/70/?title=LLMs)
-  ![Progress](https://progress-bar.dev/60/?title=RAG)
-  ![Progress](https://progress-bar.dev/85/?title=Computer+Vision)
-  ![Progress](https://progress-bar.dev/65/?title=Pentesting)
+  <img src="https://progress-bar.dev/70/?title=LLMs" alt="LLMs progress" />
+  <img src="https://progress-bar.dev/60/?title=RAG" alt="RAG progress" />
+  <img src="https://progress-bar.dev/85/?title=Computer+Vision" alt="Computer Vision progress" />
+  <img src="https://progress-bar.dev/65/?title=Pentesting" alt="Pentesting progress" />
 </p>
 
 ---
