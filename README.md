@@ -1,259 +1,130 @@
-<!-- BEN 10 OMNITRIX THEME — PIYUSH GANGURDE -->
+# Piyush Gangurde
+### AI & Data Science Engineer — Cybersecurity · Threat Intelligence · Agentic AI · Local LLMs
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a6b1a,100:00ff41&height=220&section=header&text=OMNITRIX%20ACTIVATED&fontSize=48&fontColor=00ff41&fontAlignY=38&desc=⬡%20BEARER%3A%20PIYUSH%20GANGURDE%20⬡&descAlignY=62&descSize=22&animation=twinkling" />
-
-<div align="center">
-
-```
- ██████╗ ███╗   ███╗███╗   ██╗██╗████████╗██████╗ ██╗██╗  ██╗
-██╔═══██╗████╗ ████║████╗  ██║██║╚══██╔══╝██╔══██╗██║╚██╗██╔╝
-██║   ██║██╔████╔██║██╔██╗ ██║██║   ██║   ██████╔╝██║ ╚███╔╝ 
-██║   ██║██║╚██╔╝██║██║╚██╗██║██║   ██║   ██╔══██╗██║ ██╔██╗ 
-╚██████╔╝██║ ╚═╝ ██║██║ ╚████║██║   ██║   ██║  ██║██║██╔╝ ██╗
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=720&lines=⬡+OMNITRIX+ONLINE+—+BEARER%3A+PIYUSH+GANGURDE+⬡;🟢+AI+%26+ML+ENGINEER+—+TRANSFORMING+DATA+INTO+POWER;🔐+CYBERSECURITY+GHOST+IN+THE+SYSTEM;👁️+COMPUTER+VISION+%7C+NEURAL+NETS+%7C+DEEP+LEARNING;⚡+IT'S+HERO+TIME...+WITH+CODE!" alt="Omnitrix Typing" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Piyush2425&label=⬡+OMNITRIX+SCANS&color=00ff41&style=for-the-badge)](https://github.com/Piyush2425)
-[![Followers](https://img.shields.io/github/followers/Piyush2425?label=⬡+ALLIES&style=for-the-badge&color=2ecc40&labelColor=0a3d0a)](https://github.com/Piyush2425)
-
-</div>
+Building AI-powered cybersecurity systems and threat intelligence platforms to detect, analyze, and mitigate advanced threats.
 
 ---
 
-<div align="center">
+## About
+I am an AI & Data Science engineering student focused on applied research and production-ready systems at the intersection of machine learning and cybersecurity. My work emphasizes reliable, auditable, and scalable pipelines for Threat Intelligence, local LLM deployment, and agentic automation. I prefer pragmatic designs, reproducible experiments, and security-first engineering.
 
-## ⬡ OMNITRIX BEARER — IDENTITY CONFIRMED
-
-```
-  ╔════════════════════════════════════════════╗
-  ║  ⬡⬡⬡⬡⬡⬡  OMNITRIX v10.0  ⬡⬡⬡⬡⬡⬡         ║
-  ║                                            ║
-  ║   BEARER  :  Piyush Gangurde               ║
-  ║   ALIAS   :  Piyush2425                    ║
-  ║   BASE    :  India 🇮🇳                      ║
-  ║   CLASS   :  AI/ML Engineer + Hacker       ║
-  ║   MISSION :  Building impactful AI 🚀      ║
-  ║                                            ║
-  ║   POWER   :  ▓▓▓▓▓▓▓▓▓▓░░  CHARGING       ║
-  ║   STATUS  :  🟢 HERO TIME ACTIVATED        ║
-  ╚════════════════════════════════════════════╝
-```
-
-</div>
+Core areas
+- Artificial Intelligence (ML / Deep Learning)
+- Cybersecurity & Threat Intelligence
+- Agentic AI and automation
+- Local LLM infrastructure and RAG systems
+- OSINT / Dark-Web research for operational threat context
+- Cloud-native deployments and CI/CD for ML
 
 ---
 
-## 👾 ALIEN ROSTER — TECH SUPERPOWERS
-
-> *The Omnitrix contains 1,000,904 alien DNA samples. Here are mine:*
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-
-**🔥 HEATBLAST**
-```
-[ PYTHON ]
-████████████ 92%
-```
-*The core. Everything burns with Python*
-
-</td>
-<td align="center" width="180">
-
-**🧠 GREY MATTER**
-```
-[ ML / AI ]
-██████████░░ 82%
-```
-*Tiny alien. Big brain. Huge models.*
-
-</td>
-<td align="center" width="180">
-
-**👁️ FOUR ARMS**
-```
-[ COMPUTER VISION ]
-█████████░░░ 78%
-```
-*See through any dataset or frame*
-
-</td>
-<td align="center" width="180">
-
-**⚡ XLR8**
-```
-[ DEEP LEARNING ]
-████████░░░░ 72%
-```
-*Training neural nets at lightning speed*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="180">
-
-**👻 GHOSTFREAK**
-```
-[ CYBERSECURITY ]
-███████░░░░░ 68%
-```
-*Ghost through systems. Leave no trace.*
-
-</td>
-<td align="center" width="180">
-
-**🌊 RIPJAWS**
-```
-[ DATA SCIENCE ]
-████████░░░░ 74%
-```
-*Dive deep into any ocean of data*
-
-</td>
-<td align="center" width="180">
-
-**🛡️ DIAMONDHEAD**
-```
-[ LINUX / KALI ]
-███████░░░░░ 65%
-```
-*Hardened. Unbreakable. Rock solid.*
-
-</td>
-<td align="center" width="180">
-
-**🌐 UPGRADE**
-```
-[ GIT / DEVOPS ]
-████████░░░░ 70%
-```
-*Merge with any machine. Upgrade it.*
-
-</td>
-</tr>
-</table>
+## Currently building
+- OnionExplorer — scalable crawler and extraction pipeline for onion services with automated labeling and entity extraction.
+- Telegram Darknet Monitor — signal extraction and alerting system for monitored channels and groups.
+- Threat Intelligence Knowledge Base — normalized TI database, enrichment pipelines, and queryable API.
+- AI-powered Threat Analysis — models and pipelines for prioritized alert triage and root-cause inference.
+- Local LLM Infrastructure — isolated LLM runtimes, quantized models, and private RAG stacks for on-prem inference.
 
 ---
 
-## 🛸 OMNITRIX ARSENAL — FULL TECH STACK
+## Featured projects
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,git,github,vscode,jupyter,bash&perline=5&theme=dark" alt="Tech stack icons" /></a>
-</p>
+| Project | Short description | Tech stack | Link |
+|---|---:|---|---:|
+| OnionExplorer | A distributed crawler and extractor for onion-service content with entity extraction and labeling pipelines. | Python, AsyncIO, Scrapy, MongoDB, PostgreSQL, Docker | https://github.com/Piyush2425/OnionExplorer |
+| Telegram Darknet Monitor | Monitor, parse, and score Telegram channels; automated pipeline for indicators and alerts. | Python, Telethon, FastAPI, ElasticSearch, Docker | https://github.com/Piyush2425/Telegram-Darknet-Monitor |
+| Threat Intelligence KB | Normalization, enrichment and API for threat indicators and relationships; supports ATT&CK mappings. | Python, Neo4j, PostgreSQL, Flask, OpenCTI | https://github.com/Piyush2425/Threat-Int-KB |
+| AI-powered Threat Analysis | Model suite for alert triage, attribution hints, and automated report generation. | PyTorch, Transformers, LangChain, Docker, Kubernetes | https://github.com/Piyush2425/AI-Threat-Analysis |
+| Local LLM Infrastructure | Private LLM runtime and RAG orchestration with quantized models and offline retrieval. | Ollama/GGML, LangChain, SQLite, Docker, Rust | https://github.com/Piyush2425/Local-LLM-Infra |
 
----
-
-## 📋 MISSION LOG — ACTIVE OPERATIONS
-
-<div align="center">
-
-| ⬡ CODENAME | 👾 ALIEN DEPLOYED | 🎯 MISSION BRIEF | STATUS |
-|:---:|:---:|:---|:---:|
-| [MMA_AI](https://github.com/Piyush2425/MMA_AI) | **🔥** | No description available | 🟢 LIVE |
-| [BlueDucky_Pentesting](https://github.com/Piyush2425/BlueDucky_Pentesting) | **🧠** | Step-by-step guide to installing and using BlueDucky on Kali Linux for Bluetooth HID injection. Includes setup, troubleshooting, and example payloads to automate keystrokes like opening apps, typing messages, and navigation. For educational use only. | 🟢 LIVE |
-| [MMA-AI](https://github.com/Piyush2425/MMA-AI) | **👁️** | MMA Assistant – AI-Powered Martial Arts Motion Analyzer MMA Assistant is an AI-based system designed to analyze and monitor martial arts movements from video footage. It assists athletes and trainers by identifying techniques (e.g., punches, kicks, grappling), counting actions, and providing insights to improve performance and form. | 🟢 LIVE |
-
-</div>
+(Links are repository placeholders; each project includes README, architecture diagram, and deployment steps.)
 
 ---
 
-## 📊 OMNITRIX POWER READINGS
+## Technology & Tools
 
-<div align="center">
+Languages
+- Python, C++, SQL, Dart
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush2425&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00ff41&icon_color=2ecc40&text_color=00cc33&bg_color=0d0d0d&count_private=true&custom_title=⬡ OMNITRIX POWER STATS" />
+AI / LLM
+- Transformers, SentenceTransformers, PyTorch, TensorFlow
+- LangChain, LangGraph
+- OpenAI API, Gemini, Ollama
+- Vector stores: FAISS, Milvus
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush2425&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00ff41&fire=2ecc40&currStreakLabel=00ff41&border_radius=12" />
+Cybersecurity
+- MITRE ATT&CK framework
+- Threat Intelligence workflows
+- Dark web research and OSINT tooling
+- Malware triage fundamentals
 
-<br/><br/>
+Backend & Infrastructure
+- FastAPI, Flask
+- Docker, Kubernetes
+- CI/CD: GitHub Actions
+- Observability: Prometheus, Grafana, ELK
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush2425&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33&border_radius=12&custom_title=⬡ ALIEN DNA SAMPLES" />
+Databases & Storage
+- PostgreSQL, MongoDB, SQLite
+- Redis, object storage (S3-compatible)
 
-</div>
-
----
-
-## 🏆 OMNITRIX ACHIEVEMENT BADGES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Piyush2425&theme=matrix&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## 🌌 BATTLE HISTORY — OMNITRIX ACTIVATION LOG
-
-<div align="center">
-  <a href="https://github.com/Piyush2425">
-    <img src="https://ghchart.rshah.org/Piyush2425" alt="Activity Graph" />
-  </a>
-</div>
+Cloud
+- AWS (EC2, S3, IAM)
+- Secure networking and least-privilege design
 
 ---
 
-## ️ DAILY QUOTE
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
-</p>
-
----
-
-
-## 📍 VISITOR MAP — VISITOR COUNT
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Piyush2425.Piyush2425" alt="Visitor Count" />
-</p>
+## Research interests
+- Threat Intelligence automation and enrichment
+- Agentic AI for security operations
+- Local LLM deployment, quantization, and private RAG systems
+- Explainability and trust management for ML in security
+- Automated adversary emulation and proactive detection
+- Secure, reproducible ML/DevOps for sensitive environments
 
 ---
 
-## 🌀 CURRENT TRANSFORMATIONS IN PROGRESS
+## GitHub statistics
+(These visuals use broadly supported widgets.)
 
-```python
-class OmnitrixBearer:
-    name         = "Piyush Gangurde"
-    currently    = [
-        "🧠 Mastering Generative AI & LLMs",
-        "🔐 Deepening Cybersecurity skills",
-        "🥋 Building MMA-AI v2.0",
-        "📡 Exploring Agentic AI pipelines",
-    ]
-    fun_fact     = "I analyze martial arts with AI 🥋⚡"
-    quote        = "It's not about the alien you transform into. It's about the mission."
-    omnitrix     = "🟢 HERO TIME — ALWAYS READY"
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush2425&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush2425&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## 📡 SIGNAL FREQUENCY — CONTACT THE BEARER
+## Certifications
+- [Placeholder] Certified in Machine Learning Engineering — issuer, year
+- [Placeholder] Cybersecurity Foundations — issuer, year
+- [Placeholder] Cloud Fundamentals (AWS/Azure) — issuer, year
 
-<div align="center">
+(Add verified links and PDFs in the repository's /certifications/ folder.)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Piyush2425-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0a0a0a)](https://github.com/Piyush2425)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0a0a0a)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Send_Signal-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0a0a0a)](mailto:your-email@gmail.com)
+---
 
-<br/>
+## Publications & Papers
+This section is reserved for peer-reviewed papers, technical reports, and whitepapers. Example placeholders:
+- Title — conference / year — short description — [link]
+- Title — technical report — notes — [link]
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║    ⬡ ⬡ ⬡   OMNITRIX BEARER — PIYUSH GANGURDE   ⬡ ⬡ ⬡      ║
-║                                                              ║
-║   "Transforming raw data into intelligent weapons,          ║
-║    one alien transformation at a time." 🟢                  ║
-║                                                              ║
-║       AI & ML  ·  Cybersecurity  ·  Computer Vision         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+(Provide PDFs under /publications/ when available.)
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&customColorList=6,11,20&height=140&section=footer&text=IT'S+HERO+TIME!+🟢&fontSize=32&fontColor=00ff41&fontAlignY=65" />
+## Contact
+- GitHub: https://github.com/Piyush2425
+- LinkedIn: https://linkedin.com/in/your-profile (replace with actual URL)
+- Email: your.email@example.com
+
+For recruiting or collaboration inquiries, include a concise summary of the role or project, a link to relevant code, and preferred times for a brief call.
+
+---
+
+## How to evaluate my work quickly
+1. Browse featured project READMEs for architecture and deployment details.
+2. Check test coverage and CI in project repositories.
+3. Review reproducible experiments and captured datasets (where permitted).
+4. Look for design notes on security, threat model, and data governance.
+
+---
+
+Thank you for visiting. The focus here is on secure, production-oriented ML systems for defensive security and threat intelligence.
